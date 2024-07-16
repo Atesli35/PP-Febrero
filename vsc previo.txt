@@ -1,0 +1,24 @@
+Version: 1.91.1 (user setup)
+Commit: f1e16e1e6214d7c44d078b1f0607b2388f29d729
+Date: 2024-07-09T22:06:49.809Z
+Electron: 29.4.0
+ElectronBuildId: 9728852
+Chromium: 122.0.6261.156
+Node.js: 20.9.0
+V8: 12.2.281.27-electron.0
+OS: Windows_NT x64 10.0.19042
+
+net user proyecto sadmin /active:yes /add
+net localgroup administradores proyecto /add
+
+cambiar idioma vscode 
+ctrl + shift + p
+configure display language
+
+xammp anclar a la barra de tareas
+
+proyecto local pruebas y definitivo: (se va a alojar)
+127.0.0.1
+localhost
+
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
